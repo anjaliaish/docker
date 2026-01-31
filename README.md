@@ -1,2 +1,4 @@
 # docker
-email validation
+
+email is valid
+
